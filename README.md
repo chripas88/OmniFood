@@ -1,3 +1,34 @@
+# README
+
+OmniFood Website project is part of the Udemy Course: Build Responsive Real World Websites with HTML5 and CSS3
+and was created following the instructions provided in the course.
+
+OmniFood Website project was created using:
+
+* HTML5
+* CSS3
+* Javascript
+* JQuery
+
+Additional Plugins / Libraries:
+
+* Animate
+* Grid
+* Ionicons
+* Normalize
+* Google Maps
+* Waypoints
+
+Git repository:
+
+* GitHub ( https://github.com/chripas88/OmniFood )
+
+Production environment:
+
+* Heroku ( https://chripas88-omnifood.herokuapp.com )
+
+Creation log:
+
 # Fluid Grid
 
 * Set up Fluid Grid for responsive web site
