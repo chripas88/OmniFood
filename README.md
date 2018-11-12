@@ -16,8 +16,14 @@ Additional Plugins / Libraries:
 * Grid
 * Ionicons
 * Normalize
-* Google Maps
 * Waypoints
+* Respond
+* Html5shiv
+* Selectivizr
+
+Additional APIs:
+
+* Google maps
 
 Git repository:
 
@@ -26,6 +32,7 @@ Git repository:
 Production environment:
 
 * Heroku ( https://chripas88-omnifood.herokuapp.com )
+* Note: Cannot send emails using php from Heroku. Blocked from heroku to avoid spamming. Must use heroku plugin.
 
 Creation log:
 
